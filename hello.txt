@@ -11,8 +11,7 @@ hello atlisheng!hello git!
 hello atlisheng!hello git!
 hello atlisheng!hello git!
 hello atlisheng!hello git!master test!
-hello atlisheng!hello git!
-
+hello atlisheng!hello git!hot-fix test
 hello atlisheng!hello git!
 hello atlisheng!hello git!
 
